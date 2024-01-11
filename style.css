@@ -1,0 +1,70 @@
+.centered-text {
+    text-align: center;
+}
+
+.left-text {
+    text-align: left;
+}
+
+.right-text {
+    text-align: right;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.underlined-text {
+    text-decoration: underline;
+}
+
+.font-arial {
+    font-family: Arial, sans-serif;
+}
+
+.font-times-new-roman {
+    font-family: 'Times New Roman', serif;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.green-text {
+    color: green;
+}
+
+.highlight-red {
+    background-color: red;
+    color: white;
+}
+
+.highlight-blue {
+    background-color: blue;
+    color: white;
+}
+
+.highlight-green {
+    background-color: green;
+    color: white;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-17 {
+    font-size: 17px;
+}
+
+.font-size-18 {
+    font-size: 18px;
+}
